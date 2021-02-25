@@ -1,0 +1,119 @@
+<html>
+   <body class="main">
+  <header>
+    <center><h1><span1>EAT HEALTY , THINK  BETTER  ! </span1></h1></center>
+    <br>  <center><img src="https://i.pinimg.com/originals/1d/20/e9/1d20e952e16bcd5175392125910231b9.gif" ></center></img><br>
+  </header>
+  <div class="content">
+    <h1><span6> Week-to-week and month-to-month,
+      keeping <br>your body healthy and disease-free makes<br>
+      good moods more likely.
+     
+</span3></div> <br><br>
+ <br> <br> 
+
+ 
+<div class="healthy">
+      <h1><span2>What is Healthy Eating ?<span2></h1>
+      <left>  <span3>• Healthy eating means eating a variety of foods that give you the nutrients you need to maintain your health, feel good, and have energy. These nutrients include protein, carbohydrates, fat, water, vitamins, and minerals. </span3></left>
+     
+      <br><br></div> <br>
+ <br><br>
+
+<div class="Importance">
+  <h2><span2>What is Importance of Healthy Eating ?  </span2></h2><br>
+<span3>• Healthy Eating  is fundamental to good health and well-being. Healthy eating helps us to maintain a healthy weight and reduces our risk of type 2 diabetes, high blood pressure, high cholesterol and the risk of developing cardiovascular disease and some cancers.<br><br>
+•  Healthy eating has many other benefits. When we eat well we sleep better, have more energy and better concentration – and this all adds up to healthier, happier lives! Healthy eating should be an enjoyable social experience. When children and young people eat and drink well they get all the essential nutrients they need for proper growth and development, and develop a good relationship with food and other social skills.  
+</span3> <br> <br></div><br><br><br><br>
+  <div class="tips">
+<h1><span2>Tips for Healthy Eating :</span2></h1>
+      <br>
+<span3>
+• Prepare most of your meals at home using whole or minimally processed foods. Choose from a variety of different proteins to keep things interesting. Using catchy names for each day can help you plan.<br><br>
+• Make an eating plan each week – this is the key to fast, easy meal preparation. <br><br>
+• Choose recipes with plenty of vegetables and fruit. Your goal is to fill half your plate with vegetables and fruit at every meal. Choose brightly coloured fruits and vegetables each day, especially orange and dark green vegetables. <br><br>
+• Avoid sugary drinks and instead drink water. Lower-fat, unsweetened milk is also a good way to stay hydrated. Keep a reusable water bottle in your purse or car so you can fill up wherever you are going. <br><br>
+• Eat smaller meals more often. Eat at least three meals a day with snacks in between. When you wait too long to eat you are more likely to make unhealthy food choices. Keep easy-to-eat snacks in your purse or bag for emergencies. <br><br>
+  </span3>
+     <br>
+        
+      </div>
+    </div><br><br><br><br><center><iframe width="915" height="515" src="https://www.youtube.com/embed/mMHVEFWNLMc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </center>
+ <style>
+.main{
+ background-image:url(https://cdn.sanity.io/images/0vv8moc6/physpractice/1c651ef0bbbc9d0c9168c9591f09d8dd758335ae-1000x600.png?auto=format);
+ background-position:center;
+ background-size:cover;
+}
+span2{
+  font-size:55px;
+}
+
+.healthy{
+ background:radial-gradient(white,#8BFF00,#17FF00);
+      border: 3px solid #095F00;
+  border-style:solid;
+}
+
+.content{
+  background:radial-gradient(white,#2EFF00,#053D00);
+    border: 3px solid #053D00;
+  border-style:solid;
+}
+
+span3{
+    color:black;
+    font-size:33px;
+    font-style:Times New Roman;
+    text-align:justify-content;
+  
+}
+
+span1{
+  color:black;
+  font-size:75px;
+}
+
+h1{
+  text-align:center;
+}
+
+.Importance{
+   background:radial-gradient(white, yellow,#FFC300 );
+  border: 3px solid #000000;
+  border-style:outset;
+}
+
+.tips{
+    background:radial-gradient(white, orange,#FF5500);
+   border: 3px solid #000000;
+}
+
+span4{
+  color:black;
+  font-size:25px;
+}
+
+span5{
+  font-size:35px;
+}
+
+p{
+  font-size:20px;
+}
+
+span6{
+  font-size:35px;
+}
+h2{
+  font-size:30px  ;
+  text-align:center;
+}
+
+</style> </body>
+</html>
+    
+  
+  
+    
