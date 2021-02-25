@@ -1,0 +1,124 @@
+<html>
+   <body class="main">
+  <header>
+    <center><h1><span1>• ARMY  DAY  BLOG </span1></h1></center>
+      <center><img src="https://i.pinimg.com/originals/6e/06/39/6e06393e317001bb0cdcb962a6e23269.gif" ></center></img><br>
+  </header>
+  <div class="content">
+    <h1><span6> Let us celebrate our Army by saluting all of   <br> them for their bravery and patriotism.<br>
+    Happy Indian Army Day!
+     
+</span3></div> <br><br>
+ <br> <br> 
+
+ 
+<div class="healthy">
+      <h1><span2>What is Army Day ?<span2></h1>
+      <left>  <span3>• Army Day in India is celebrated with great enthusiasm every year on 15th of January. It has been started celebrating to respect the Lieutenant General of India, K. M. Cariappa (Kodandera Madappa Cariappa) who was the first Indian Army’s Commander-in-Chief. It is celebrated every year at all the Army Command headquarters and national capital by organizing army parades including many other military shows.</span3></left>
+     
+      <br><br></div> <br>
+ <br><br>
+
+<div class="Importance">
+  <h2><span2> Why do we Celebrate Army Day ?  </span2></h2><br>
+<span3>• It is celebrated to pay homage and salute to the courageous and brave Indian soldiers who have been sacrificed their lives for protecting the country. Indian Army General Kodandera Madappa Cariappa was succeeded the British Army General Roy Butcher and became the first Commander-in-Chief of the independent India.<br><br>
+• Indian Army soldiers are always ready to fight with all the hard times at Indian borders as well as with the natural disasters. They courageously face all the challenges and difficulties come their way to save the nation and people.
+</span3> <br> <br></div><br><br><br><br>
+  <div class="tips">
+<h1><span2>About Army Day Celebration :</span2></h1>
+      <br>
+<span3>
+• Indian army plays a great and big role during the disaster situations in the country as they are dedicated to the country to become the War Winning Team. The day was decided to be celebrated as the army day in India to start paying tribute to the sacrificed Indian army soldiers at the “Amar Jawan Jyoti” at India Gate in New Delhi.<br><br>
+• After paying homage, an excellent parades including military shows takes place to indicate the new technologies and accomplishments in the Indian Army. Bravery awards including Unit credentials and Sena Medals are distributed at this great occasion. <br><br>
+•At the Army Day celebration in Jammu and Kashmir, serving army personnel get the bravery and famed service awards (Sena medals, Vishist Seva medals and etc). The day has been marked to memorize the daring and bold Indian soldiers who lost their lives while protecting their nation. <br><br></div><br><br> </span3>
+  <div class="Importance1">
+  <h2><span2> About Army Day Parade: </span2></h2><br> <span3>
+• Army day parade during the army day celebration is carried out by the Indian army soldiers (Indian army bands) which involves the exhibition of BLT T-72, T-90 tanks, Brahmos Missile, carrier Mortar Tracked Vehicle, 155 MM Soltum Gun, Advanced Light Helicopters of the Army Aviation Corps and etc. <br><br>
+• Serving Indian armies take a pledge at this day to maintain their service and protect the nation from enemies whether they are foreign or domestic.<br><
+  
+  br>
+  </span3>
+     <br>
+        
+      </div>
+    </div><br><br><br><br><center><iframe width="915" height="515" src="https://www.youtube.com/embed/5QOrJtTmCL0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </center><style>
+.main{
+ background-image:url(https://i.pinimg.com/originals/e3/89/ed/e389ed6676cd300b29a53af769bafbcb.jpg);
+ background-position:center;
+ background-size:cover;
+}
+span2{
+  font-size:55px;
+}
+
+.healthy{
+      background:radial-gradient(white, orange,#FF5500);
+   border: 3px solid #000000;
+
+}
+
+.content{
+  background:radial-gradient(white,#2EFF00,#053D00);
+    border: 3px solid #053D00;
+  border-style:solid;
+}
+
+span3{
+    color:black;
+    font-size:33px;
+    font-style:Times New Roman;
+    text-align:justify-content;
+  
+}
+
+span1{
+  color:black;
+  font-size:75px;
+}
+
+h1{
+  text-align:center;
+}
+
+.Importance{
+   background:radial-gradient(white,white, blue );
+  border: 3px solid #000000;
+  border-style:outset;
+}
+
+.tips{
+ background:radial-gradient(white,#8BFF00,#17FF00);
+      border: 3px solid #095F00;
+  border-style:solid;
+}
+
+span4{
+  color:black;
+  font-size:25px;
+}
+
+span5{
+  font-size:35px;
+}
+
+p{
+  font-size:20px;
+}
+
+span6{
+  font-size:35px;
+}
+h2{
+  font-size:30px  ;
+  text-align:center;
+}
+.Importance1{
+   background:radial-gradient(white,#2ECA00 ,green);
+  border: 3px solid #000000;
+  border-style:outset;
+}</style>
+  </body>
+</html>
+    
+    

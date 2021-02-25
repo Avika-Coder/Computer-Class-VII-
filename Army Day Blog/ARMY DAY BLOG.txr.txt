@@ -1,0 +1,145 @@
+<html>
+<body>
+    <div id="navbar">
+      <ul>
+        <li><a href="#">HOME</a></li>
+        <li><a href="#">ABOUT US</a></li>
+        <li><a href="#">EXPLORE</a></li>
+        <li><a href="#">CONTACT US</a></li>
+      </ul>
+    </div>
+  
+      <div id="welcome-section">
+        <div id="info">
+          <h1> • ARMY DAY BLOG </h1>
+          <p>Let us celebrate our Army by saluting all of
+them for their bravery and patriotism.
+Happy Indian Army Day!</p>
+        </div>
+  </div>
+        	<div class="flex1">
+		<div class="flex-child">
+          <h1>What is Army Day ?</h1>
+		   <p>• Army Day in India is celebrated with great enthusiasm every year on 15th of January. It has been started celebrating to respect the Lieutenant General of India, K. M. Cariappa (Kodandera Madappa Cariappa) who was the first Indian Army’s Commander-in-Chief. It is celebrated every year at all the Army Command headquarters and national capital by organizing army parades including many other military shows.</p>
+       <h1>Why do we Celebrate Army Day ?</h1>
+        <p>• It is celebrated to pay homage and salute to the courageous and brave Indian soldiers who have been sacrificed their lives for protecting the country. Indian Army General Kodandera Madappa Cariappa was succeeded the British Army General Roy Butcher and became the first Commander-in-Chief of the independent India.
+<br><br>
+• Indian Army soldiers are always ready to fight with all the hard times at Indian borders as well as with the natural disasters. They courageously face all the challenges and difficulties come their way to save the nation and people.<br><br>
+
+</p><h1>About Army Day Celebration :</h1><p>
+• Indian army plays a great and big role during the disaster situations in the country as they are dedicated to the country to become the War Winning Team. The day was decided to be celebrated as the army day in India to start paying tribute to the sacrificed Indian army soldiers at the “Amar Jawan Jyoti” at India Gate in New Delhi.
+<br><br>
+
+• After paying homage, an excellent parades including military shows takes place to indicate the new technologies and accomplishments in the Indian Army. Bravery awards including Unit credentials and Sena Medals are distributed at this great occasion.<br><br>
+
+•At the Army Day celebration in Jammu and Kashmir, serving army personnel get the bravery and famed service awards (Sena medals, Vishist Seva medals and etc). The day has been marked to memorize the daring and bold Indian soldiers who lost their lives while protecting their nation.<br><br>
+</p><h1>About Army Day Parade:</h1><p>
+• Army day parade during the army day celebration is carried out by the Indian army soldiers (Indian army bands) which involves the exhibition of BLT T-72, T-90 tanks, Brahmos Missile, carrier Mortar Tracked Vehicle, 155 MM Soltum Gun, Advanced Light Helicopters of the Army Aviation Corps and etc.
+<br><br>
+
+• Serving Indian armies take a pledge at this day to maintain their service and protect the nation from enemies whether they are foreign or domestic.
+
+</p>
+      <br><br><center><iframe width="915" height="515" src="https://www.youtube.com/embed/5QOrJtTmCL0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </center>
+  </body>
+</html>
+    
+  
+  
+  </div>
+  
+<style>
+body {
+  margin:0;
+  font-family: 'Open Sans', sans-serif;
+  background:#f0f0f0;
+}
+#navbar{
+  width:100%;
+  position:fixed;
+  top:0;
+  left:0;
+ background:#000000;
+}
+ul
+{
+  display: flex;
+  align-content:center;
+  justify-content: center;
+}
+ul li{
+   list-style:none; 
+}
+ul li a{
+  text-transform:uppercase;
+  font-weight:bold;
+  color:#fff;
+  font-size:0.875em;
+  text-decoration:none;
+  padding:1em;
+  white-space:nowrap;
+  letter-spacing:1px;
+}
+
+
+ul li a:hover
+{
+  border-bottom:3px solid #fff;
+}
+#welcome-section
+{
+  min-height:100vh;
+  color:#fff;
+  text-align:center;
+ background:linear-gradient(rgba(7,77,2,0.6),rgba(87,0,210,0)),url(https://img.etimg.com/thumb/msid-73267385,width-1200,height-900,imgsize-243237,overlay-etdefence/photo.jpg);
+background-size:cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+#info
+{
+  text-transform:uppercase;
+  letter-spacing:4px;
+  font-weight:700;
+}
+
+
+#info p {
+  font-size: 1.5em;
+  line-height: 1.3em;
+}
+
+
+
+h1{
+  color:white;
+  font-size: 64px;  
+  font-family:Times New Roman;
+}
+
+.flex1 {
+  display: flex;
+  color: white;
+  padding: 100px 150px 150px 100px;
+  position: center;
+  background: linear-gradient(to bottom,#000000, #0B2A00, #3EFF00);
+}
+
+
+.flex1 p {
+  font-weight: 400%;
+  font-family: serif;
+  font-size: 150%;
+}
+
+.flex2 h1 {
+  font-size: 325%;
+  text-align: center;
+}
+</style>
+</body>
+</html>
